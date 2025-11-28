@@ -1,5 +1,6 @@
 # **Mayze: Tilt-Controlled Maze Platform**
 > Made by: Amar Aly, b00096144 | Ahmad Abu Srour b00097269 | Ahmad Aoude b00097433
+
 Mayze is a real-time embedded game where a player tilts a physical maze using a joystick.  
 The maze platform is driven by dual-axis servos, controlled by an STM32 microcontroller running FreeRTOS.  
 A photoresistor detects when the ball reaches the goal, and the buzzer sounds to celebrate the win.
