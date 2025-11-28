@@ -1,0 +1,15 @@
+../Core/Src/freertos.c:112:6:debugPrint	16	static
+../Core/Src/freertos.c:143:6:Check_Adc15_And_Buzz	24	static
+../Core/Src/freertos.c:173:6:MX_FREERTOS_Init	168	static
+../Core/Src/freertos.c:283:5:LightSensor_ReadLux	32	static
+../Core/Src/freertos.c:310:6:StartDefaultTask	16	static
+../Core/Src/freertos.c:323:6:play_tone	16	static
+../Core/Src/freertos.c:427:16:MapRawAxisToPercent	40	static
+../Core/Src/freertos.c:450:13:Apply_CrossAxis_Compensation	24	static
+../Core/Src/freertos.c:474:6:Read_Calibrated_Joystick	32	static
+../Core/Src/freertos.c:497:10:Map_JoyPercent_To_Pulse	24	static
+../Core/Src/freertos.c:525:6:joystickTask	32	static
+../Core/Src/freertos.c:556:6:servoTask	40	static
+../Core/Src/freertos.c:625:6:buzzerTask	24	static
+../Core/Src/freertos.c:659:6:printerTask	56	static
+../Core/Src/freertos.c:685:10:Read_ADC_Channel	40	static

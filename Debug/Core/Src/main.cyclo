@@ -1,0 +1,4 @@
+../Core/Src/main.c:97:5:main	4
+../Core/Src/main.c:185:6:SystemClock_Config	4
+../Core/Src/main.c:237:6:Process_Joystick	3
+../Core/Src/main.c:271:6:Error_Handler	1

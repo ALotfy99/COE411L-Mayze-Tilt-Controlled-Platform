@@ -1,0 +1,4 @@
+../Core/Src/main.c:97:5:main	104	static
+../Core/Src/main.c:185:6:SystemClock_Config	96	static
+../Core/Src/main.c:237:6:Process_Joystick	24	static
+../Core/Src/main.c:271:6:Error_Handler	4	static,ignoring_inline_asm
